@@ -1,0 +1,48 @@
+.left{
+	width:300px;
+	height:470px;
+	background-color: black;
+	float:left;
+	margin-top: -20px;
+	text-align: center;
+	box-shadow: -2px 2px 12px 20px black;
+}
+.right{
+	width:990px;
+	height:500px;
+	background-color: white;
+	float:right;
+	margin-top: -20px;
+	text-align:left;
+}
+.content{
+	margin-left: -200px ;
+}
+.left-sidebar-background{
+	background:url("images/images4.jpeg") no-repeat left 0px;
+}
+.left ul li{
+	
+	background-color: black;
+	text-align: left;
+	color:white;
+
+	font-size: 15px;
+line-height: 44px;
+height: 44px;
+padding: 0 30px;
+}
+.left ul li a{
+	color: white;
+	font-size: 15px;
+	text-decoration: none;
+}
+.left ul li:hover,a:hover{
+	background-color:#2dd866; 
+	text-decoration: none;
+	transition: .7s;
+	color:black;
+
+    
+}
+#069206;

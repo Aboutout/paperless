@@ -1,0 +1,22 @@
+.bottomShadow
+{
+	width:350px;
+	height:440px;
+	border: solid 1px #555;
+	background-color: #eed;
+	box-shadow: 10px 10px  5px rgba(0,0,0,0.6);
+	-moz-box-shadow: 10px 10px  5px rgba(0,0,0,0.6);
+	-webkit-box-shadow: 10px 10px  5px rgba(0,0,0,0.6);
+	-o-box-shadow: 10px 10px  5px rgba(0,0,0,0.6);
+}
+.signupshadow
+{
+	width:550px;
+	height:625px;
+	border: solid 1px #555;
+	background-color: #eed;
+	box-shadow: 10px 10px  5px rgba(0,0,0,0.6);
+	-moz-box-shadow: 10px 10px  5px rgba(0,0,0,0.6);
+	-webkit-box-shadow: 10px 10px  5px rgba(0,0,0,0.6);
+	-o-box-shadow: 10px 10px  5px rgba(0,0,0,0.6);
+}
