@@ -71,8 +71,8 @@ e.printStackTrace();
 
 
 
-final String user="chopadeankit1997@gmail.com";//change accordingly
-final String pass="30061997";
+final String user="@";//change accordingly
+final String pass="";
 String subject="Credentials Of Paperless";
 //1st step) Get the session object	
 String host = "smtp.gmail.com";
