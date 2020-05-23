@@ -1,0 +1,22 @@
+@font-face {
+    font-family:myFirstFont;
+    src: url('batmfa_.ttf');
+	}
+.h1{
+font-family:myFirstFont;
+font-size:30px;
+text-align:center;
+}
+.h2{
+font-family:myFirstFont;
+text-align:center;
+font-size:50px;
+}
+.h3{
+font-family:myFirstFont;
+}
+.h4{
+font-family:myFirstFont;
+font-size:18px;
+text-align:center;
+}
